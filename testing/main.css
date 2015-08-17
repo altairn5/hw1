@@ -1,0 +1,62 @@
+body{
+background: #323232;
+}
+
+#raceTrack{
+    width: 1000px;
+    height: 200px;
+    /*margin: 100px solid red;*/
+    margin: auto;
+    position: relative;
+    border: 1px solid black;
+    border-top-right-radius: 2px;
+    border-top-left-radius: 2px;
+}
+
+.track1{
+    width: 1000px;
+    height: 50%;
+    margin: 1px solid red;
+    background: black;
+}
+.track2{
+    width: 1000px;
+    height: 50%;
+    margin: 1px solid black;
+    background: red;
+}
+.dawg1{
+    width: 20px;
+    height: 20px;
+    position:relative;
+
+
+}
+
+
+.matched{
+    color: maroon;
+}
+.player-1-color{
+    color: maroon;
+}
+
+
+
+#panel{
+    width: 1000px;
+    margin: 1px auto;
+    background: gray;
+    padding-top: 1px;
+    border-bottom-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+}
+#board{
+    font-size: 30px;
+    font-family: helvetica;
+    color: whitesmoke;
+    margin-top: 10px;
+}
+#playButton{
+
+}
